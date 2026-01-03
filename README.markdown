@@ -1,3 +1,8 @@
+
+https://en.wikipedia.org/wiki/POCSAG
+
+
+
 About Ethersex
 ==============
 Ethersex, originally developed to provide an alternative firmware for the [etherrape hardware](http://www.lochraster.org/etherrape),
