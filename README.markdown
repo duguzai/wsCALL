@@ -1,6 +1,8 @@
 
 https://en.wikipedia.org/wiki/POCSAG
 
+proto board / https://wsjt.sourceforge.io/wsjtx.html
+proto txyp
 
 
 About Ethersex
